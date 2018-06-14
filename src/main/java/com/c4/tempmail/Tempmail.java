@@ -171,7 +171,7 @@ public class Tempmail {
 
             // if has key with name "error"
             if(myResponseObj1.has("error")){
-                
+
                 String sGetListError = myResponseObj1.getString("error");
                 System.out.printf("Error message: %s%n", sGetListError);
 
