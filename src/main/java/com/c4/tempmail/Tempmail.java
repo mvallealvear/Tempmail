@@ -17,7 +17,7 @@ import java.util.logging.SimpleFormatter;
 public class Tempmail {
 
     // type de UUID defined for you in Mashape
-    private static final String XMashapeKey = "iboVF12LNEmshIRNA8rlKpgrmqEap12OmTcjsn6rMFaa2xnWRc";
+    private static final String XMashapeKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
     private static final String _EMAIL  = "EMAIL";
     private static final String _KEY  = "KEY";
