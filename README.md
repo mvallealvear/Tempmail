@@ -17,3 +17,12 @@ More information in:
 2. Open project with Idea IntelliJ
 3. `maven install clean`
 4. Run Tempmail class
+5. Edit `XMashapeKey`
+
+You must edit de Mashape UUID in de Tempmail class:
+
+`...
+private static final String XMashapeKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+....`
+
+Register in Mashape, get your API key (UUID) and edit `XMashapeKey`.
