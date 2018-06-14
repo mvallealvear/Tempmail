@@ -11,3 +11,9 @@ More information in:
 <a href="https://market.mashape.com/Reuleaux/post-shift" rel="nofollow">https://market.mashape.com/Reuleaux/post-shift</a>
 
 
+### Idea Project
+
+1. Clone repository
+2. Open project with Idea IntelliJ
+3. `maven install clean`
+4. Run Tempmail class
