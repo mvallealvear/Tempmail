@@ -25,4 +25,4 @@ You must edit de Mashape UUID in de Tempmail class:
 private static final String XMashapeKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 ....`
 
-Register in Mashape, get your API key (UUID) and edit `XMashapeKey`.
+Register for free in Mashape, get your API key (UUID) and edit `XMashapeKey`.
